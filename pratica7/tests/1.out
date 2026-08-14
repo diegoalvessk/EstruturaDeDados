@@ -1,0 +1,33 @@
+Fila de prioridade da UPA 1:
+JoaoGabriel 87 2
+Agatha 65 2
+Rodrigo 75 2
+Tomas 21 1
+AnaClara 11 2
+Vitoria 30 2
+Anthony 52 2
+
+Fila de prioridade da UPA 2:
+Eduarda 80 3
+Maria 52 3
+MariaLaura 35 3
+Leticia 39 3
+CarlosEduardo 45 3
+AnaLuiza 41 1
+Francisco 37 2
+
+UPA com todos os pacientes:
+Eduarda 80 3
+Maria 52 3
+MariaLaura 35 3
+JoaoGabriel 87 2
+CarlosEduardo 45 3
+Agatha 65 2
+AnaLuiza 41 1
+Anthony 52 2
+Rodrigo 75 2
+Vitoria 30 2
+Leticia 39 3
+AnaClara 11 2
+Francisco 37 2
+Tomas 21 1
